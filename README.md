@@ -1,4 +1,4 @@
-# 60daysUdacityChallenge
+# 60 days of Udacity Challenge: Secure and Private AI
 
 **Day 1:**
 1. Completed with lesson 1 Welcome to the scholarship challenge
@@ -21,8 +21,7 @@ Link: https://github.com/GOVINDDIXIT/Learning-PyTorch
 Encouraging @Frida @Sankalp Dayal @Labiba @Shivam Raisharma @Shashank Jain @Nirupama Singh  @Perez Ogayo@shivu @Anita Goldpergel @Shubhangi Jena @Munira Omar @Sky @Urvi Soni @Sourav @Carlo David @jicksy @jithesh gopal @Helena Barmer@Anna Scott @Droid @Ishan Arora to continue doing udacious work :smiley:
 
 **Day 4:**
-1. Contnue with lesson 2 Deep learning with Pytorch
-2. 
+1. Contnue with lesson 2 Deep learning with Pytorch 
 Encouraging @Frida @Sankalp Dayal @Labiba @Shivam Raisharma @Shashank Jain @Nirupama Singh  @Perez Ogayo@shivu @Anita Goldpergel @Shubhangi Jena @Munira Omar @Sky @Urvi Soni @Sourav @Carlo David @jicksy @jithesh gopal @Helena Barmer@Anna Scott @Droid @Ishan Arora to continue doing udacious work :smiley:
 
 **Day 5:**
